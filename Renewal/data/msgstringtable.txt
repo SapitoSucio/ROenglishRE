@@ -430,7 +430,7 @@ Manufacturing List#
  item created successfully.#
 Failed to create %s.#
 Successfully created %s.#
-You don't have the the required level.#
+You don't have the required level.#
 You level is too high for this job.#
 Not the suitable job for this type of work.#
 Record a message in the Talkie Box#
@@ -3595,12 +3595,12 @@ Would you like to retrieve the attachment of the selected email?#
 Would you like to retrieve all attached items in the [%s] mailbox?#
 Skill Bar 2#
 Change Skill Bar#
-¢®c#
-¢®e#
-¢®©¡#
-¢®e#
-¡ËC#
-¢®c#
+ï¿½ï¿½c#
+ï¿½ï¿½e#
+ï¿½ï¿½ï¿½ï¿½#
+ï¿½ï¿½e#
+ï¿½ï¿½C#
+ï¿½ï¿½c#
 This window cannot be closed while loading.#
 There is no Magic Spellbook available.#
 Items used during movement cannot be exchanged.#
@@ -3645,7 +3645,7 @@ You don't have enough AP.#
 It cannot be combined due to it's high refine level.#
 The refine level is higher than required for the combination.#
 A card is inserted or it's enchanted.#
-¢®A#
+ï¿½ï¿½A#
 Z#
 Total : %s Zeny#
 Limited Account Sales Registration Window#

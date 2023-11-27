@@ -13,7 +13,7 @@
 			<hunting>	Oh my gosh, I hope you don't kill anyone I know.	</hunting>
 			<danger>	If you die, what do you drop?	</danger>
 			<danger>	I'll be alright for a bit, feed yourself and heal up!	</danger>
-			<danger>	I think you need the food more then I do...	</danger>
+			<danger>	I think you need the food more than I do...	</danger>
 			<danger>	I was saving this apple for later, but you look like you need it more.	</danger>
 			<danger>	If I heal you, will you feed me after?	</danger>
 			<danger>	I think you should heal yourself, you don't look too good.	</danger>
@@ -103,7 +103,7 @@
 			<stand>	A-a-and we're off, where are we goin' now? ^^	</stand>
 			<stand>	Wow, we leaving already? You're on the move!	</stand>
 			<stand>	Hey, how come I don't have any hands...?	</stand>
-			<stand>	You like me more then the other porings, don't you?	</stand>
+			<stand>	You like me more than the other porings, don't you?	</stand>
 			<stand>	I think I picked up a ... oh never mind, I must have missed it...	</stand>
 			<stand>	I think I had an accident, let's leave quick.	</stand>
 			<connect>	*wraps around your leg* yay you're back.	</connect>
@@ -849,7 +849,7 @@
 			<levelup>	Hey, you look like you could use a hand holding those red gems...	</levelup>
 		</noting>
 		<full>
-			<feeding>	Ah, that was more then I wanted, I'm full.	</feeding>
+			<feeding>	Ah, that was more than I wanted, I'm full.	</feeding>
 			<feeding>	Let me give you a tip, don't overfeed me or I'll puke.	</feeding>
 			<hunting>	Where's the fun in hunting this thing? It's too easy... for me at least.	</hunting>
 			<danger>	Go for the headshot, go for the headshot!	</danger>
@@ -961,7 +961,7 @@
 			<danger>	If you die. Can I chew on your shoe?...or leg...hmm...	</danger>
 			<danger>	That's it. just a little more...then I feed.	</danger>
 			<danger>	*WOOF*	</danger>
-			<dead>	I can't let your meat go to waste, momma taught me better then to waste good food and you didn't feed me yet.	</dead>
+			<dead>	I can't let your meat go to waste, momma taught me better than to waste good food and you didn't feed me yet.	</dead>
 			<dead>	Hey, you can play dead too, but I'm the one that wants the treat!	</dead>
 			<dead>	Sorry... but you didn't feed me and I'm REALLY hungry... so, I gotta eat you!	</dead>
 			<dead>	Awooooo~~	</dead>
@@ -1956,7 +1956,7 @@
 			<feeding>	I'm satisfied... but a little more wouldn't hurt.	</feeding>
 			<feeding>	Thank you... this is very good...	</feeding>
 			<feeding>	Are we dieting..?	</feeding>
-			<feeding>	This is even better then that Magnolia I ate in Payon....	</feeding>
+			<feeding>	This is even better than that Magnolia I ate in Payon....	</feeding>
 			<hunting>	You lead... I shall follow behind.	</hunting>
 			<hunting>	Please, protect me if something tries to attack me...	</hunting>
 			<hunting>	For someone who is alive, you fight really well....	</hunting>
@@ -2338,7 +2338,7 @@
 			<feeding>	Look, if you want me to keep my girlish figure, stop shoving those at me.	</feeding>
 			<hunting>	I feel like there'ss a ton of brickss inside me!	</hunting>
 			<hunting>	Can I borrow a cotton shirt? Hisss... Hissss...	</hunting>
-			<danger>	Sshall I go and find ssomeone who's much better then you?	</danger>
+			<danger>	Sshall I go and find ssomeone who's much better than you?	</danger>
 			<dead>	Sso, you finally undersstand that it'ss you who'ss more important to me?	</dead>
 			<dead>	Noo don't leave me!! Stay away from the light!!	</dead>
 			<dead>	...Don't be so hard on yourself... Isis will be with you..	</dead>
@@ -2499,7 +2499,7 @@
 		</bit_hungry>
 		<noting>
 			<feeding>	Mmm... tasty.	</feeding>
-			<feeding>	Not even Baphomet himself eats better then this!	</feeding>
+			<feeding>	Not even Baphomet himself eats better than this!	</feeding>
 			<hunting>	Not bad.. not bad at all.	</hunting>
 			<hunting>	Lord, when will you be done with this pitiful creature?	</hunting>
 			<hunting>	I'll put a curse on anyone that messes with us.	</hunting>
@@ -2703,7 +2703,7 @@
 			<feeding>	You picked this up off the ground, didn't you? No? Alright, but I'm watching you...	</feeding>
 			<feeding>	Wah~ I ate well. Now, I need water~.. Hm? Why aren't you bringing me water?	</feeding>
 			<feeding>	What kind of food is this? *tsk*... I'm only eating this food out of pity. *Chomp*Chomp*...	</feeding>
-			<hunting>	Okay, whatever you kill, we split 20-80... what...? I think giving you 20% is more then fair!	</hunting>
+			<hunting>	Okay, whatever you kill, we split 20-80... what...? I think giving you 20% is more than fair!	</hunting>
 			<hunting>	Since I'm hungry, why don't we go eat something... aren't you hungry?	</hunting>
 			<hunting>	Now, show me the results of your training!	</hunting>
 			<hunting>	I'm fed up. What's the point if you're not going to kill it instantly, go make me food.	</hunting>
@@ -4006,7 +4006,7 @@
 		</noting>
 		<full>
 			<feeding>	T.T Too FULL... That's too much....	</feeding>
-			<feeding>	Eating alot isn't always good..	</feeding>
+			<feeding>	Eating a lot isn't always good..	</feeding>
 			<hunting>	Since I have full a stomach, I can help you with hunting!	</hunting>
 			<hunting>	... Too full....I will fall down...	</hunting>
 			<danger>	Too dangerous! Let's retreat for now!	</danger>
@@ -4029,7 +4029,7 @@
 			<feeding>	I feel dying here!	</feeding>
 			<hunting>	I have to make empty stomach for fast attack...	</hunting>
 			<hunting>	NextNextNextNext!!	</hunting>
-			<danger>	In this kind of situation, I really want to take out all candies from my stomach. Should be alot.	</danger>
+			<danger>	In this kind of situation, I really want to take out all candies from my stomach. Should be a lot.	</danger>
 			<danger>	You're gonna die! Too dangerous!	</danger>
 			<dead>	Don't die...T.T	</dead>
 			<dead>	Please save my master... T.T	</dead>
@@ -4293,7 +4293,7 @@
 			<stand>	Maybe we should rest in here?	</stand>
 			<connect>	Finally you come!	</connect>
 			<connect>	I've waiting for you all day!	</connect>
-			<connect>	Thank you for come, you must have miss me alot~	</connect>
+			<connect>	Thank you for come, you must have miss me a lot~	</connect>
 			<levelup>	Congratulations! I hope i can be as strong as you.	</levelup>
 			<levelup>	Well done! you did it!	</levelup>
 			<levelup>	Impressive! Our next target is level 99!	</levelup>
@@ -4330,7 +4330,7 @@
 			<stand>	Maybe we should rest in here?	</stand>
 			<connect>	Finally you come!	</connect>
 			<connect>	I've waiting for you all day!	</connect>
-			<connect>	Thank you for come, you must have miss me alot~	</connect>
+			<connect>	Thank you for come, you must have miss me a lot~	</connect>
 			<levelup>	Congratulations! I hope i can be as strong as you.	</levelup>
 			<levelup>	Well done! you did it!	</levelup>
 			<levelup>	Impressive! Our next target is level 99!	</levelup>
@@ -4535,8 +4535,8 @@
 			<stand>	Ok, I will give you a chance.	</stand>
 			<connect>	Again...the time of darkness is back.	</connect>
 			<connect>	The bloody feast begins...	</connect>
-			<levelup>	¡¾¡¿¡¤¢® ¢¥o¢¯i ¢¥o ©ö©¬©öo¥ìO AA¢Òo¢®|¢®|	</levelup>
-			<levelup>	¨ú¨¡A¡À ¨¬IA¡¤CI¢¥U.	</levelup>
+			<levelup>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½oï¿½ï¿½i ï¿½ï¿½o ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½O AAï¿½ï¿½oï¿½ï¿½|ï¿½ï¿½|	</levelup>
+			<levelup>	ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ ï¿½ï¿½IAï¿½ï¿½CIï¿½ï¿½U.	</levelup>
 			<perfor_1>	That one looks OK...You need to indulge yourself.	</perfor_1>
 			<perfor_1>	Heh...	</perfor_1>
 			<perfor_2>	Being alive is the continuation of suffering.	</perfor_2>
@@ -4639,7 +4639,7 @@
 			<stand> I'm happy.. I'm sorry.	</stand>
 			<stand>	It's soooooooo cute..	</stand>
 			<stand>	Reyoul Yub. Right. Light.	</stand>
-			<stand>	¾×·¦ ··¼ªÁö ±Ê±Ò»õ¹ó·é..	</stand>
+			<stand>	ï¿½×·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê±Ò»ï¿½ï¿½ï¿½ï¿½..	</stand>
 			<levelup>	Congratulations!	</levelup>
 			<perfor_1>	My armpit! My armpit! My armpit! I'm going to go crazy for you.(Crying)	</perfor_1>
 			<perfor_1>	...Crying...	</perfor_1>
@@ -4653,7 +4653,7 @@
 			<stand> I'm happy.. I'm sorry.	</stand>
 			<stand>	It's soooooooo cute..	</stand>
 			<stand>	Reyoul Yub. Right. Light.	</stand>
-			<stand>	¾×·¦ ··¼ªÁö ±Ê±Ò»õ¹ó·é..	</stand>
+			<stand>	ï¿½×·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê±Ò»ï¿½ï¿½ï¿½ï¿½..	</stand>
 			<levelup>	Congratulations!	</levelup>
 			<perfor_1>	My armpit! My armpit! My armpit! I'm going to go crazy for you.(Crying)	</perfor_1>
 			<perfor_1>	...Crying...	</perfor_1>
@@ -4666,16 +4666,16 @@
 		<hungry>
 			<feeding> Hee hee hee! Hee hee hee! </feeding>
 			<feeding> Did I eat up your Rice Cake? </feeding>
-			<feeding> ¼´ ÁÖ²ÄÀµ ÀÎ¿£ºéÀÇ ½ÞÀÌ¹õ»Ù! Çª·£·£!</feeding>
+			<feeding> ï¿½ï¿½ ï¿½Ö²ï¿½ï¿½ï¿½ ï¿½Î¿ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¹ï¿½ï¿½ï¿½! Çªï¿½ï¿½ï¿½ï¿½!</feeding>
 			<hunting> Blue, blue, blue! Hehehehehe! </hunting>
-			<hunting> µ·¹ó ¼ªÀÇ ÀßµüÁø ·öÀ´! </hunting>
-			<hunting> ¼ªÀÇ ¿­¸ÂÇÔÀ´ µ·°©ÁÖ·¹! </hunting>
-			<danger> À§ÇèÇÏ»Ù... ÇÏÁö·· ¼ª»Â ÀÌ¿Ü¼± ³ö ÀÖ±î! </danger>
-			<danger> ÀÎ¿£ÀÌ°©...¼ª·¦ ·øµ´ Ã³ ÇÏ¸Á¿í ÇÏ»Â¿¡? </danger>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½! </hunting>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½! </hunting>
+			<danger> ï¿½ï¿½ï¿½ï¿½ï¿½Ï»ï¿½... ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¿Ü¼ï¿½ ï¿½ï¿½ ï¿½Ö±ï¿½! </danger>
+			<danger> ï¿½Î¿ï¿½ï¿½Ì°ï¿½...ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã³ ï¿½Ï¸ï¿½ï¿½ï¿½ ï¿½Ï»Â¿ï¿½? </danger>
 			<danger> Dangerous? In the New Year's Day, you're a yut, eraleb. Yeah! </danger>
 			<dead> Blue... Blue...</dead>
-			<dead> ¼ª·¦ ÀÌ»ë¸Î ºÐ»Ù·é ¼× ½ÞÀ´ ·Ô±î¶ö·®¿Ú»Ù! </dead>
-			<dead> ¼ª»Â ÀÌ»ë¸Î ´ç¹óÁö»Â¿Õ¿¡? </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½Ð»Ù·ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½! </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¿Õ¿ï¿½? </dead>
 			<stand> I'm looking for someone? </stand>
 			<stand> I'm going to mix the pork cutlet with pork belly meat. </stand>
 			<stand> What are you doing? </stand>
@@ -4689,16 +4689,16 @@
 		<bit_hungry>
 			<feeding> Hee hee hee! Hee hee hee! </feeding>
 			<feeding> Did I eat up your Rice Cake? </feeding>
-			<feeding> ¼´ ÁÖ²ÄÀµ ÀÎ¿£ºéÀÇ ½ÞÀÌ¹õ»Ù! Çª·£·£!</feeding>
+			<feeding> ï¿½ï¿½ ï¿½Ö²ï¿½ï¿½ï¿½ ï¿½Î¿ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¹ï¿½ï¿½ï¿½! Çªï¿½ï¿½ï¿½ï¿½!</feeding>
 			<hunting> Blue, blue, blue! Hehehehehe! </hunting>
-			<hunting> µ·¹ó ¼ªÀÇ ÀßµüÁø ·öÀ´! </hunting>
-			<hunting> ¼ªÀÇ ¿­¸ÂÇÔÀ´ µ·°©ÁÖ·¹! </hunting>
-			<danger> À§ÇèÇÏ»Ù... ÇÏÁö·· ¼ª»Â ÀÌ¿Ü¼± ³ö ÀÖ±î! </danger>
-			<danger> ÀÎ¿£ÀÌ°©...¼ª·¦ ·øµ´ Ã³ ÇÏ¸Á¿í ÇÏ»Â¿¡? </danger>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½! </hunting>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½! </hunting>
+			<danger> ï¿½ï¿½ï¿½ï¿½ï¿½Ï»ï¿½... ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¿Ü¼ï¿½ ï¿½ï¿½ ï¿½Ö±ï¿½! </danger>
+			<danger> ï¿½Î¿ï¿½ï¿½Ì°ï¿½...ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã³ ï¿½Ï¸ï¿½ï¿½ï¿½ ï¿½Ï»Â¿ï¿½? </danger>
 			<danger> Dangerous? In the New Year's Day, you're a yut, eraleb. Yeah! </danger>
 			<dead> Blue... Blue...</dead>
-			<dead> ¼ª·¦ ÀÌ»ë¸Î ºÐ»Ù·é ¼× ½ÞÀ´ ·Ô±î¶ö·®¿Ú»Ù! </dead>
-			<dead> ¼ª»Â ÀÌ»ë¸Î ´ç¹óÁö»Â¿Õ¿¡? </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½Ð»Ù·ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½! </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¿Õ¿ï¿½? </dead>
 			<stand> I'm looking for someone? </stand>
 			<stand> I'm going to mix the pork cutlet with pork belly meat. </stand>
 			<stand> What are you doing? </stand>
@@ -4712,16 +4712,16 @@
 		<noting>
 			<feeding> Hee hee hee! Hee hee hee! </feeding>
 			<feeding> Did I eat up your Rice Cake? </feeding>
-			<feeding> ¼´ ÁÖ²ÄÀµ ÀÎ¿£ºéÀÇ ½ÞÀÌ¹õ»Ù! Çª·£·£!</feeding>
+			<feeding> ï¿½ï¿½ ï¿½Ö²ï¿½ï¿½ï¿½ ï¿½Î¿ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¹ï¿½ï¿½ï¿½! Çªï¿½ï¿½ï¿½ï¿½!</feeding>
 			<hunting> Blue, blue, blue! Hehehehehe! </hunting>
-			<hunting> µ·¹ó ¼ªÀÇ ÀßµüÁø ·öÀ´! </hunting>
-			<hunting> ¼ªÀÇ ¿­¸ÂÇÔÀ´ µ·°©ÁÖ·¹! </hunting>
-			<danger> À§ÇèÇÏ»Ù... ÇÏÁö·· ¼ª»Â ÀÌ¿Ü¼± ³ö ÀÖ±î! </danger>
-			<danger> ÀÎ¿£ÀÌ°©...¼ª·¦ ·øµ´ Ã³ ÇÏ¸Á¿í ÇÏ»Â¿¡? </danger>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½! </hunting>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½! </hunting>
+			<danger> ï¿½ï¿½ï¿½ï¿½ï¿½Ï»ï¿½... ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¿Ü¼ï¿½ ï¿½ï¿½ ï¿½Ö±ï¿½! </danger>
+			<danger> ï¿½Î¿ï¿½ï¿½Ì°ï¿½...ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã³ ï¿½Ï¸ï¿½ï¿½ï¿½ ï¿½Ï»Â¿ï¿½? </danger>
 			<danger> Dangerous? In the New Year's Day, you're a yut, eraleb. Yeah! </danger>
 			<dead> Blue... Blue...</dead>
-			<dead> ¼ª·¦ ÀÌ»ë¸Î ºÐ»Ù·é ¼× ½ÞÀ´ ·Ô±î¶ö·®¿Ú»Ù! </dead>
-			<dead> ¼ª»Â ÀÌ»ë¸Î ´ç¹óÁö»Â¿Õ¿¡? </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½Ð»Ù·ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½! </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¿Õ¿ï¿½? </dead>
 			<stand> I'm looking for someone? </stand>
 			<stand> I'm going to mix the pork cutlet with pork belly meat. </stand>
 			<stand> What are you doing? </stand>
@@ -4733,16 +4733,16 @@
 			<levelup> Blue, blue, blue, blue! Don't worry, Yeol Haejin and Yuben? </levelup>
 		</noting>
 		<full>
-			<feeding> ¶è¿¡ ÅÍÁú¿Í ¿¿»Ù. Çª·£·£.. </feeding>
+			<feeding> ï¿½è¿¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. Çªï¿½ï¿½ï¿½ï¿½.. </feeding>
 			<hunting> Blue, blue, blue! Hehehehehe! </hunting>
-			<hunting> µ·¹ó ¼ªÀÇ ÀßµüÁø ·öÀ´! </hunting>
-			<hunting> ¼ªÀÇ ¿­¸ÂÇÔÀ´ µ·°©ÁÖ·¹! </hunting>
-			<danger> À§ÇèÇÏ»Ù... ÇÏÁö·· ¼ª»Â ÀÌ¿Ü¼± ³ö ÀÖ±î! </danger>
-			<danger> ÀÎ¿£ÀÌ°©...¼ª·¦ ·øµ´ Ã³ ÇÏ¸Á¿í ÇÏ»Â¿¡? </danger>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½! </hunting>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½! </hunting>
+			<danger> ï¿½ï¿½ï¿½ï¿½ï¿½Ï»ï¿½... ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¿Ü¼ï¿½ ï¿½ï¿½ ï¿½Ö±ï¿½! </danger>
+			<danger> ï¿½Î¿ï¿½ï¿½Ì°ï¿½...ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã³ ï¿½Ï¸ï¿½ï¿½ï¿½ ï¿½Ï»Â¿ï¿½? </danger>
 			<danger> Dangerous? In the New Year's Day, you're a yut, eraleb. Yeah! </danger>
 			<dead> Blue... Blue...</dead>
-			<dead> ¼ª·¦ ÀÌ»ë¸Î ºÐ»Ù·é ¼× ½ÞÀ´ ·Ô±î¶ö·®¿Ú»Ù! </dead>
-			<dead> ¼ª»Â ÀÌ»ë¸Î ´ç¹óÁö»Â¿Õ¿¡? </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½Ð»Ù·ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½! </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¿Õ¿ï¿½? </dead>
 			<stand> I'm looking for someone? </stand>
 			<stand> I'm going to mix the pork cutlet with pork belly meat. </stand>
 			<stand> What are you doing? </stand>
@@ -4754,16 +4754,16 @@
 			<levelup> Blue, blue, blue, blue! Don't worry, Yeol Haejin and Yuben? </levelup>
 		</full>
 		<so_full>
-			<feeding> ¶è¿¡ ÅÍÁú¿Í ¿¿»Ù. Çª·£·£·£..</feeding>
+			<feeding> ï¿½è¿¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. Çªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..</feeding>
 			<hunting> Blue, blue, blue! Hehehehehe! </hunting>
-			<hunting> µ·¹ó ¼ªÀÇ ÀßµüÁø ·öÀ´! </hunting>
-			<hunting> ¼ªÀÇ ¿­¸ÂÇÔÀ´ µ·°©ÁÖ·¹! </hunting>
-			<danger> À§ÇèÇÏ»Ù... ÇÏÁö·· ¼ª»Â ÀÌ¿Ü¼± ³ö ÀÖ±î! </danger>
-			<danger> ÀÎ¿£ÀÌ°©...¼ª·¦ ·øµ´ Ã³ ÇÏ¸Á¿í ÇÏ»Â¿¡? </danger>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½! </hunting>
+			<hunting> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½! </hunting>
+			<danger> ï¿½ï¿½ï¿½ï¿½ï¿½Ï»ï¿½... ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¿Ü¼ï¿½ ï¿½ï¿½ ï¿½Ö±ï¿½! </danger>
+			<danger> ï¿½Î¿ï¿½ï¿½Ì°ï¿½...ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã³ ï¿½Ï¸ï¿½ï¿½ï¿½ ï¿½Ï»Â¿ï¿½? </danger>
 			<danger> Dangerous? In the New Year's Day, you're a yut, eraleb. Yeah! </danger>
 			<dead> Blue... Blue...</dead>
-			<dead> ¼ª·¦ ÀÌ»ë¸Î ºÐ»Ù·é ¼× ½ÞÀ´ ·Ô±î¶ö·®¿Ú»Ù! </dead>
-			<dead> ¼ª»Â ÀÌ»ë¸Î ´ç¹óÁö»Â¿Õ¿¡? </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½Ð»Ù·ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½Ú»ï¿½! </dead>
+			<dead> ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¿Õ¿ï¿½? </dead>
 			<stand> I'm looking for someone? </stand>
 			<stand> I'm going to mix the pork cutlet with pork belly meat. </stand>
 			<stand> What are you doing? </stand>
@@ -4779,7 +4779,7 @@
 		<hungry>
 			<feeding> Ray... Salem, come on? </feeding>
 			<feeding> Why do you have a shal?  </feeding>
-			<feeding> ·ñÀÌ Å·ºé±î¿£»Ù. </feeding>
+			<feeding> ï¿½ï¿½ï¿½ï¿½ Å·ï¿½ï¿½î¿£ï¿½ï¿½. </feeding>
 			<hunting> Do you have information for me?  </hunting>
 			<hunting> A cup of brain, a cup of stir-fried chicken.  </hunting>
 			<hunting> I'm going to tie up my information and I'm going to use it. </hunting>
@@ -4788,7 +4788,7 @@
 			<dead> She's so cute. </dead>
 			<dead> Now, brainyut, what's your legacy? </dead>
 			<dead> I'm going to use this... </dead>
-			<stand> ·ñÀÌ...Å·ºé±î¿£»Ù.. </stand>
+			<stand> ï¿½ï¿½ï¿½ï¿½...Å·ï¿½ï¿½î¿£ï¿½ï¿½.. </stand>
 			<stand> She's gone. She's gone. </stand>
 			<stand> He's so skinny. Forget about me. I'll forget about it.  </stand>
 			<stand> I'm sorry, Darlene. I'm sorry.  </stand>
@@ -4800,7 +4800,7 @@
 		<bit_hungry>
 			<feeding> Ray... Salem, come on? </feeding>
 			<feeding> Why do you have a shal?  </feeding>
-			<feeding> ·ñÀÌ Å·ºé±î¿£»Ù. </feeding>
+			<feeding> ï¿½ï¿½ï¿½ï¿½ Å·ï¿½ï¿½î¿£ï¿½ï¿½. </feeding>
 			<hunting> Do you have information for me?  </hunting>
 			<hunting> A cup of brain, a cup of stir-fried chicken.  </hunting>
 			<hunting> I'm going to tie up my information and I'm going to use it. </hunting>
@@ -4809,7 +4809,7 @@
 			<dead> She's so cute. </dead>
 			<dead> Now, brainyut, what's your legacy? </dead>
 			<dead> I'm going to use this... </dead>
-			<stand> ·ñÀÌ...Å·ºé±î¿£»Ù.. </stand>
+			<stand> ï¿½ï¿½ï¿½ï¿½...Å·ï¿½ï¿½î¿£ï¿½ï¿½.. </stand>
 			<stand> She's gone. She's gone. </stand>
 			<stand> He's so skinny. Forget about me. I'll forget about it.  </stand>
 			<stand> I'm sorry, Darlene. I'm sorry.  </stand>
@@ -4821,7 +4821,7 @@
 		<noting>
 			<feeding> Ray... Salem, come on? </feeding>
 			<feeding> Why do you have a shal?  </feeding>
-			<feeding> ·ñÀÌ Å·ºé±î¿£»Ù. </feeding>
+			<feeding> ï¿½ï¿½ï¿½ï¿½ Å·ï¿½ï¿½î¿£ï¿½ï¿½. </feeding>
 			<hunting> Do you have information for me?  </hunting>
 			<hunting> A cup of brain, a cup of stir-fried chicken.  </hunting>
 			<hunting> I'm going to tie up my information and I'm going to use it. </hunting>
@@ -4830,7 +4830,7 @@
 			<dead> She's so cute. </dead>
 			<dead> Now, brainyut, what's your legacy? </dead>
 			<dead> I'm going to use this... </dead>
-			<stand> ·ñÀÌ...Å·ºé±î¿£»Ù.. </stand>
+			<stand> ï¿½ï¿½ï¿½ï¿½...Å·ï¿½ï¿½î¿£ï¿½ï¿½.. </stand>
 			<stand> She's gone. She's gone. </stand>
 			<stand> He's so skinny. Forget about me. I'll forget about it.  </stand>
 			<stand> I'm sorry, Darlene. I'm sorry.  </stand>
@@ -4840,7 +4840,7 @@
 			<levelup> I'm gonna have to heat it up. Myxchal. </levelup>
 		</noting>
 		<full>
-			<feeding> Á¹¾Ý ÃëÇÏ»Â¾µ. ÀÜÀ´ ¼½¿Üºº ºÇ¿Ú¼ª?  </feeding>
+			<feeding> ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï»Â¾ï¿½. ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Üºï¿½ ï¿½Ç¿Ú¼ï¿½?  </feeding>
 			<hunting> Do you have information for me?  </hunting>
 			<hunting> A cup of brain, a cup of stir-fried chicken.  </hunting>
 			<hunting> I'm going to tie up my information and I'm going to use it. </hunting>
@@ -4849,7 +4849,7 @@
 			<dead> She's so cute. </dead>
 			<dead> Now, brainyut, what's your legacy? </dead>
 			<dead> I'm going to use this... </dead>
-			<stand> ·ñÀÌ...Å·ºé±î¿£»Ù.. </stand>
+			<stand> ï¿½ï¿½ï¿½ï¿½...Å·ï¿½ï¿½î¿£ï¿½ï¿½.. </stand>
 			<stand> She's gone. She's gone. </stand>
 			<stand> He's so skinny. Forget about me. I'll forget about it.  </stand>
 			<stand> I'm sorry, Darlene. I'm sorry.  </stand>
@@ -4859,7 +4859,7 @@
 			<levelup> I'm gonna have to heat it up. Myxchal. </levelup>
 		</full>
 		<so_full>
-			<feeding> ¼Ê¶« ¿úÇÏ¿Ô ·¹³Ì¾µ. ¿ÅÀýÇÏ¿Ú¼× </feeding>
+			<feeding> ï¿½Ê¶ï¿½ ï¿½ï¿½ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½Ì¾ï¿½. ï¿½ï¿½ï¿½ï¿½ï¿½Ï¿Ú¼ï¿½ </feeding>
 			<hunting> Do you have information for me?  </hunting>
 			<hunting> A cup of brain, a cup of stir-fried chicken.  </hunting>
 			<hunting> I'm going to tie up my information and I'm going to use it. </hunting>
@@ -4868,7 +4868,7 @@
 			<dead> She's so cute. </dead>
 			<dead> Now, brainyut, what's your legacy? </dead>
 			<dead> I'm going to use this... </dead>
-			<stand> ·ñÀÌ...Å·ºé±î¿£»Ù.. </stand>
+			<stand> ï¿½ï¿½ï¿½ï¿½...Å·ï¿½ï¿½î¿£ï¿½ï¿½.. </stand>
 			<stand> She's gone. She's gone. </stand>
 			<stand> He's so skinny. Forget about me. I'll forget about it.  </stand>
 			<stand> I'm sorry, Darlene. I'm sorry.  </stand>
@@ -5075,7 +5075,7 @@
 			<dead>	I don't think so...	</dead>
 			<dead>	RUN!!! 	</dead>
 			<stand>	Damn it! You can't do that!	</stand>
-			<stand>	Àúºº ·øÃ¬¾â²Ã·é³­ ¿áÈ¥Àµ ±î¹´¿Ô ÇÏ²Ç¿Ç¿¡°ä?	</stand>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¬ï¿½ï¿½Ã·é³­ ï¿½ï¿½È¥ï¿½ï¿½ ï¿½î¹´ï¿½ï¿½ ï¿½Ï²Ç¿Ç¿ï¿½ï¿½ï¿½?	</stand>
 			<stand>  What's wrong with that rap? Who are you?	</stand>
 			<stand>	It's flower-like, right?	</stand>
 			<stand>	Master's horn? I'm so sorry, I'm so excited about that.</stand>
@@ -5100,7 +5100,7 @@
 			<dead>	I don't think so...	</dead>
 			<dead>	RUN!!! 	</dead>
 			<stand>	Damn it! You can't do that!	</stand>
-			<stand>	Àúºº ·øÃ¬¾â²Ã·é³­ ¿áÈ¥Àµ ±î¹´¿Ô ÇÏ²Ç¿Ç¿¡°ä?	</stand>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¬ï¿½ï¿½Ã·é³­ ï¿½ï¿½È¥ï¿½ï¿½ ï¿½î¹´ï¿½ï¿½ ï¿½Ï²Ç¿Ç¿ï¿½ï¿½ï¿½?	</stand>
 			<stand>  What's wrong with that rap? Who are you?	</stand>
 			<stand>	It's flower-like, right?	</stand>
 			<stand>	Master's horn? I'm so sorry, I'm so excited about that.</stand>
@@ -5125,7 +5125,7 @@
 			<dead>	I don't think so...	</dead>
 			<dead>	RUN!!! 	</dead>
 			<stand>	Damn it! You can't do that!	</stand>
-			<stand>	Àúºº ·øÃ¬¾â²Ã·é³­ ¿áÈ¥Àµ ±î¹´¿Ô ÇÏ²Ç¿Ç¿¡°ä?	</stand>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¬ï¿½ï¿½Ã·é³­ ï¿½ï¿½È¥ï¿½ï¿½ ï¿½î¹´ï¿½ï¿½ ï¿½Ï²Ç¿Ç¿ï¿½ï¿½ï¿½?	</stand>
 			<stand>  What's wrong with that rap? Who are you?	</stand>
 			<stand>	It's flower-like, right?	</stand>
 			<stand>	Master's horn? I'm so sorry, I'm so excited about that.</stand>
@@ -5147,7 +5147,7 @@
 			<dead>	I don't think so...	</dead>
 			<dead>	RUN!!! 	</dead>
 			<stand>	Damn it! You can't do that!	</stand>
-			<stand>	Àúºº ·øÃ¬¾â²Ã·é³­ ¿áÈ¥Àµ ±î¹´¿Ô ÇÏ²Ç¿Ç¿¡°ä?	</stand>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¬ï¿½ï¿½Ã·é³­ ï¿½ï¿½È¥ï¿½ï¿½ ï¿½î¹´ï¿½ï¿½ ï¿½Ï²Ç¿Ç¿ï¿½ï¿½ï¿½?	</stand>
 			<stand>  What's wrong with that rap? Who are you?	</stand>
 			<stand>	It's flower-like, right?	</stand>
 			<stand>	Master's horn? I'm so sorry, I'm so excited about that.</stand>
@@ -5169,7 +5169,7 @@
 			<dead>	I don't think so...	</dead>
 			<dead>	RUN!!! 	</dead>
 			<stand>	Damn it! You can't do that!	</stand>
-			<stand>	Àúºº ·øÃ¬¾â²Ã·é³­ ¿áÈ¥Àµ ±î¹´¿Ô ÇÏ²Ç¿Ç¿¡°ä?	</stand>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¬ï¿½ï¿½Ã·é³­ ï¿½ï¿½È¥ï¿½ï¿½ ï¿½î¹´ï¿½ï¿½ ï¿½Ï²Ç¿Ç¿ï¿½ï¿½ï¿½?	</stand>
 			<stand>  What's wrong with that rap? Who are you?	</stand>
 			<stand>	It's flower-like, right?	</stand>
 			<stand>	Master's horn? I'm so sorry, I'm so excited about that.</stand>
@@ -5295,136 +5295,136 @@
 	</gloomundernight2>
 	<child_admin_b>
 		<hungry>
-			<feeding>	Beta charging...	£þ¡ä£þ </feeding>
+			<feeding>	Beta charging...	ï¿½ï¿½ï¿½ï¿½ï¿½ </feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Master, you're so mean...	</stand>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</hungry>
 		<bit_hungry>
-			<feeding>	Beta charging...	£þ¡ä£þ </feeding>
+			<feeding>	Beta charging...	ï¿½ï¿½ï¿½ï¿½ï¿½ </feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Master, you're the best...	</stand>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</bit_hungry>
 		<noting>
-			<feeding>	Beta charging...	£þ¡ä£þ </feeding>
+			<feeding>	Beta charging...	ï¿½ï¿½ï¿½ï¿½ï¿½ </feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Are you kidding me?	</stand>
-			<stand>	Show me *'¡å'*...	</stand>
+			<stand>	Show me *'ï¿½ï¿½'*...	</stand>
 			<hunting>	Power!	</hunting>
 			<danger> It's ok.. T^T	</danger>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</noting>
 		<full>
-			<feeding>I'm gonna put an egg on this thing..¡Ã_¡Â	</feeding>
+			<feeding>I'm gonna put an egg on this thing..ï¿½ï¿½_ï¿½ï¿½	</feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Are you kidding me?	</stand>
-			<stand>	Show me *'¡å'*...	</stand>
+			<stand>	Show me *'ï¿½ï¿½'*...	</stand>
 			<hunting>	Power!	</hunting>
 			<danger> It's ok.. T^T	</danger>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</full>
 		<so_full>
-			<feeding>	I'm gonna put an egg on this thing..¡Ã_¡Â	</feeding>
-			<dead>	It's because of that rap. I'm so tired ¢Á_¢Á	</dead>
+			<feeding>	I'm gonna put an egg on this thing..ï¿½ï¿½_ï¿½ï¿½	</feeding>
+			<dead>	It's because of that rap. I'm so tired ï¿½ï¿½_ï¿½ï¿½	</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Are you kidding me?	</stand>
-			<stand>	Show me *'¡å'*...	</stand>
+			<stand>	Show me *'ï¿½ï¿½'*...	</stand>
 			<stand>	Let go of me.. Connecting..	</stand>
 			<hunting>	Power!	</hunting>
 			<danger> It's ok.. T^T	</danger>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</so_full>
 	</child_admin_b>
 	<child_admin_a>
 		<hungry>
-			<feeding>	Beta charging...	£þ¡ä£þ </feeding>
+			<feeding>	Beta charging...	ï¿½ï¿½ï¿½ï¿½ï¿½ </feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	You're so mean.	</stand>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</hungry>
 		<bit_hungry>
-			<feeding>	Beta charging...	£þ¡ä£þ </feeding>
+			<feeding>	Beta charging...	ï¿½ï¿½ï¿½ï¿½ï¿½ </feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
-			<stand>	Master, you're the best... ¢Ñ¢Ð	</stand>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<stand>	Master, you're the best... ï¿½Ñ¢ï¿½	</stand>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</bit_hungry>
 		<noting>
-			<feeding>	Beta charging...	£þ¡ä£þ </feeding>
+			<feeding>	Beta charging...	ï¿½ï¿½ï¿½ï¿½ï¿½ </feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Are you kidding me?	</stand>
-			<stand>	Show me *'¡å'*...	</stand>
+			<stand>	Show me *'ï¿½ï¿½'*...	</stand>
 			<hunting>	Power!	</hunting>
 			<danger> It's ok.. T^T	</danger>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</noting>
 		<full>
-			<feeding>I'm gonna put an egg on this thing..¡Ã_¡Â	</feeding>
+			<feeding>I'm gonna put an egg on this thing..ï¿½ï¿½_ï¿½ï¿½	</feeding>
 			<dead>	It's because of that rap. I'm so tired...</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Are you kidding me?	</stand>
-			<stand>	Show me *'¡å'*...	</stand>
+			<stand>	Show me *'ï¿½ï¿½'*...	</stand>
 			<hunting>	Power!	</hunting>
 			<danger> It's ok.. T^T	</danger>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</full>
 		<so_full>
-			<feeding>	I'm gonna put an egg on this thing..¡Ã_¡Â	</feeding>
-			<dead>	It's because of that rap. I'm so tired ¢Á_¢Á	</dead>
+			<feeding>	I'm gonna put an egg on this thing..ï¿½ï¿½_ï¿½ï¿½	</feeding>
+			<dead>	It's because of that rap. I'm so tired ï¿½ï¿½_ï¿½ï¿½	</dead>
 			<connect>	It's double the jump ^_^	</connect>
 			<stand>	Are you kidding me?	</stand>
-			<stand>	Show me *'¡å'*...	</stand>
+			<stand>	Show me *'ï¿½ï¿½'*...	</stand>
 			<stand>	Let go of me.. Connecting..	</stand>
 			<hunting>	Power!	</hunting>
 			<danger> It's ok.. T^T	</danger>
-			<levelup>	The stir-fried rice cake is so messy. *'¡å'*	</levelup>
+			<levelup>	The stir-fried rice cake is so messy. *'ï¿½ï¿½'*	</levelup>
 			<perfor_1>	What do you mean?	</perfor_1>
-			<perfor_1>	Loading..¡á¡á¡à¡à¡à..	</perfor_1>
+			<perfor_1>	Loading..ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..	</perfor_1>
 			<perfor_2>	How old are you? 	</perfor_2>
-			<perfor_2>	I don't like the last item ¡Ý_¡Ý!	</perfor_2>
+			<perfor_2>	I don't like the last item ï¿½ï¿½_ï¿½ï¿½!	</perfor_2>
 		</so_full>
 	</child_admin_a>
 	<WANDERING_DUCK>
@@ -5432,7 +5432,7 @@
 		<feeding>I've been eating a lot of good stuff.</feeding>
 		<feeding>Give me your life...</feeding>
 		<hunting>~ Open your eyes ~ open your eyes ~</hunting>
-		<hunting>±ó·¥ Ã¼Ä¡ÇÏ¿í ¼ªÇÑÅ× ·ÔÀ´ ¿Í Á´ ÁÖ³³°ä</hunting>
+		<hunting>ï¿½ï¿½ Ã¼Ä¡ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö³ï¿½ï¿½ï¿½</hunting>
 		<danger>Come here! The sun is shining!</danger>
 		<danger>You're dangerous, huh, don't be shy.</danger>
 		<dead>Is it going to be... Is it going to be...?</dead>
@@ -5441,7 +5441,7 @@
 		<stand>I'm tired, I'm tired, I've read, I've been, I've been, I'm ok?</stand>
 		<stand>Can you give me a gel moxibustion? Is it from the bad luck?</stand>
 		<stand>It's stinky...</stand>
-		<connect>¼ª ¶ä ÁÖ¸Á¿í °ÔÁöÀÌ?</connect>
+		<connect>ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½?</connect>
 		<connect>Growl! Should I wake up?</connect>
 		<levelup>Congratulations! It's time to celebrate!</levelup>
 		<levelup>I don't know what's going on. That's what I meant.</levelup>
@@ -5473,13 +5473,13 @@
 		<perfor_2>Yes, give me a break. She's picking on me!</perfor_2>
 	</bit_hungry>
 	<noting>
-		<feeding>°À»ÃÀµ ¾×¸¿Àú¸¿, ¾×¼É¾×¼É µ·ÅëÀÇ ·ÀÀÌ»Ù</feeding>
+		<feeding>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½×¸ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½×¼É¾×¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì»ï¿½</feeding>
 		<feeding>Very detailed~</feeding>
 		<hunting>Don't run out of money in our company!</hunting>
 		<hunting>Ball punch! Thickness is strong!</hunting>
 		<danger>Snack? It's dangerous.</danger>
 		<danger>You're shy? You're so cheerful.</danger>
-		<dead>±ó·¥ º¶±Æ °Í~</dead>
+		<dead>ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½~</dead>
 		<dead>I'm sorry...</dead>
 		<stand>Take a good look at the quantitative analysis of the neck.</stand>
 		<stand>It's like jumping up and down and down...</stand>
@@ -5488,7 +5488,7 @@
 		<connect>It's contagious, right?</connect>
 		<connect>I'm going to get out of here!</connect>
 		<levelup>I got it! I got it! She's moving on to Rebel?</levelup>
-		<levelup>°ì·®»Â ¿­ÇØÁ¼»Ù!!!!!</levelup>
+		<levelup>ï¿½ì·®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!!!!!</levelup>
 		<perfor_1>Let's put this here.</perfor_1>
 		<perfor_1>It's pollution!</perfor_1>
 		<perfor_2>I like restful rap. Shake shake shake</perfor_2>
@@ -5496,23 +5496,23 @@
 	</noting>
 	<full>
 		<feeding>New cute...</feeding>
-		<feeding>·ÀÀÖ»Â ¿Íºº, ÁÁÀµ ¿Íºº ·¶ÀÌ ·ÔÀ··é ²È»Ù¾·...</feeding>
+		<feeding>ï¿½ï¿½ï¿½Ö»ï¿½ ï¿½Íºï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½Íºï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½È»Ù¾ï¿½...</feeding>
 		<hunting>Well done! Well done!</hunting>
 		<hunting>I'm not good at this!</hunting>
 		<danger>I'm going to make a lot of rice cake and pork belly, right?</danger>
 		<danger>Rice porridge and rice soup!</danger>
 		<dead>Common hawk hawk!! shhhhhhh~</dead>
 		<dead>I'm going to be sick and tired. It's going to be a snack.</dead>
-		<stand>¼ª»ÀÀµ~ ¼ë¸¡ µÎ·£»Â ¿É ÁÁ±ÆÇØ~ ´¼~ ´½´½±Ç~~¢Ý</stand>
+		<stand>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½~ ï¿½ë¸¡ ï¿½Î·ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½~ ï¿½ï¿½~ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½~~ï¿½ï¿½</stand>
 		<stand>It's not going to explode in a small bowl, can you give me a big rap?</stand>
-		<stand>¼´ ·ÚÁø ¼¯¿¼¾ê Á´ µÁ Áà. °¶´ºÇØ ÁÖ¿í ±½»Ùºë±î Áà.</stand>
+		<stand>ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½Ùºï¿½ï¿½ ï¿½ï¿½.</stand>
 		<stand>Awkwardly, wet and squishy?</stand>
 		<stand>Do you have a mole, Ben? Hot! This is the flower cup!</stand>
 		<stand>Put it on! Do it slowly. I'm flattered by the amount of flower petals.</stand>
 		<connect>You're so slimy!</connect>
 		<connect>Ta-da! Stir-fried ribs, good! Mix it up!</connect>
 		<levelup>Congratulations!</levelup>
-		<levelup>·ÚÀÖ»Ù! ¿­ÇÏ»Ù!</levelup>
+		<levelup>ï¿½ï¿½ï¿½Ö»ï¿½! ï¿½ï¿½ï¿½Ï»ï¿½!</levelup>
 		<perfor_1>Let's put this here.</perfor_1>
 		<perfor_1>It's pollution!</perfor_1>
 		<perfor_2>I like restful rap. Shake shake shake</perfor_2>
@@ -5520,7 +5520,7 @@
 	</full>
 	<so_full>
 		<feeding>I've met a doll! A doll! A doll with a doll!</feeding>
-		<feeding>·ÔÀ·¹ó»Ï¾î ·Ô±úÁö··, ÀÌ¿Ç Á¤·´ ²²ÇÂ ·ÀÀÌ»Ù...</feeding>
+		<feeding>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¾ï¿½ ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½Ì¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì»ï¿½...</feeding>
 		<hunting>Are you still here without Shopped out! I'm here to measure up!</hunting>
 		<hunting>Are you going to get hurt quickly?</hunting>
 		<danger>It's a sleepover! How is it good?</danger>
@@ -5533,8 +5533,8 @@
 		<stand>I love it! Jump, jump, move, slurping!</stand>
 		<stand>My neck is cold and wet...</stand>
 		<stand>What are you doing?</stand>
-		<stand>ÇÑ ¶ø ´ÓÀÎ °À·® ÀÎÇü ÀÎ´ý, °¶´Û »ÜÃß·¦ ¾·ÇÏ»Âº¥ ·ðºÎ »Ù ¶ÙÄ¡¿Ú»Ù!</stand>
-		<stand>¼× »«Àµ µ¿ ··Å­ °¶´º~¡Ú °¶´Û »ÜÃßµ·»Ùºº »õ ¶ÝÂ¦°©~¡Ú</stand>
+		<stand>ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Î´ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ß·ï¿½ ï¿½ï¿½ï¿½Ï»Âºï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½Ú»ï¿½!</stand>
+		<stand>ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½Å­ ï¿½ï¿½ï¿½ï¿½~ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ßµï¿½ï¿½Ùºï¿½ ï¿½ï¿½ ï¿½ï¿½Â¦ï¿½ï¿½~ï¿½ï¿½</stand>
 		<connect>For a long time, it's been thin! Are you kidding?</connect>
 		<connect>I did my best!</connect>
 		<levelup>There's no such thing as jumping up and down on a cow!</levelup>
@@ -5548,9 +5548,9 @@
 	<pet_kiel>
 		<hungry>
 			<feeding>	..Now? 	</feeding>
-			<dead>		´ýÃ³ °¡¼ÊÁö µÐ³® ¿á¿ú : 0% / ´óÅÂ : µÎÀûÇÕ	</dead>
+			<dead>		ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð³ï¿½ ï¿½ï¿½ï¿½ : 0% / ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
 			<stand>		Do you have a sore throat?	</stand>
-			<levelup>	ERROR : ´ýÃ³ °¡¼ÊÁö È¿³µºº ÃøÁ¤ ¿á¿ú : 101%	</levelup>
+			<levelup>	ERROR : ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¿ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ : 101%	</levelup>
 			<perfor_1>	ERROR: In the middle of nowhere.	</perfor_1>
 			<perfor_2>	You're so cute.	</perfor_2>
 			<perfor_2>	I'm happy to see you : Let's go!	</perfor_2>
@@ -5558,9 +5558,9 @@
 		</hungry>
 		<bit_hungry>
 			<feeding>	Quietly, quietly, quietly, quietly.</feeding>
-			<dead>		´ýÃ³ °¡¼ÊÁö µÐ³® ¿á¿ú : 0% / ´óÅÂ : µÎÀûÇÕ	</dead>
+			<dead>		ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð³ï¿½ ï¿½ï¿½ï¿½ : 0% / ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
 			<stand>		Don't you forget it?	</stand>
-			<levelup>	ERROR : ´ýÃ³ °¡¼ÊÁö È¿³µºº ÃøÁ¤ ¿á¿ú : 101%	</levelup>
+			<levelup>	ERROR : ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¿ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ : 101%	</levelup>
 			<perfor_1>	ERROR: In the middle of nowhere.	</perfor_1>
 			<perfor_2>	You're so cute.	</perfor_2>
 			<perfor_2>	I'm happy to see you : Let's go!	</perfor_2>
@@ -5568,10 +5568,10 @@
 		</bit_hungry>
 		<noting>
 			<feeding>	Quietly, quietly, quietly, quietly.</feeding>
-			<dead>		´ýÃ³ °¡¼ÊÁö µÐ³® ¿á¿ú : 0% / ´óÅÂ : µÎÀûÇÕ	</dead>
+			<dead>		ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð³ï¿½ ï¿½ï¿½ï¿½ : 0% / ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
 			<stand>		Did you go?	</stand>
 			<stand>		I don't understand. </stand>
-			<levelup>	ERROR : ´ýÃ³ °¡¼ÊÁö È¿³µºº ÃøÁ¤ ¿á¿ú : 101%	</levelup>
+			<levelup>	ERROR : ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¿ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ : 101%	</levelup>
 			<perfor_1>	ERROR: In the middle of nowhere.	</perfor_1>
 			<perfor_2>	You're so cute.	</perfor_2>
 			<perfor_2>	I'm happy to see you : Let's go!	</perfor_2>
@@ -5579,11 +5579,11 @@
 		</noting>
 		<full>
 			<feeding>	It's the new puppy's mouth. 	</feeding>
-			<dead>		´ýÃ³ °¡¼ÊÁö µÐ³® ¿á¿ú : 0% / ´óÅÂ : µÎÀûÇÕ	</dead>
+			<dead>		ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð³ï¿½ ï¿½ï¿½ï¿½ : 0% / ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
 			<stand>		Did you go?	</stand>
 			<stand>		I don't understand. </stand>
 			<stand>		I'm gonna let you go. I'm gonna read it.	</stand>
-			<levelup>	ERROR : ´ýÃ³ °¡¼ÊÁö È¿³µºº ÃøÁ¤ ¿á¿ú : 101%	</levelup>
+			<levelup>	ERROR : ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¿ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ : 101%	</levelup>
 			<perfor_1>	ERROR: In the middle of nowhere.	</perfor_1>
 			<perfor_2>	You're so cute.	</perfor_2>
 			<perfor_2>	I'm happy to see you : Let's go!	</perfor_2>
@@ -5591,11 +5591,11 @@
 		</full>
 		<so_full>
 			<feeding>	It's the new puppy's mouth. 	</feeding>
-			<dead>		´ýÃ³ °¡¼ÊÁö µÐ³® ¿á¿ú : 0% / ´óÅÂ : µÎÀûÇÕ	</dead>
+			<dead>		ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð³ï¿½ ï¿½ï¿½ï¿½ : 0% / ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
 			<stand>		Did you go?	</stand>
 			<stand>		I don't understand. </stand>
 			<stand>		I'm gonna let you go. I'm gonna read it.	</stand>
-			<levelup>	ERROR : ´ýÃ³ °¡¼ÊÁö È¿³µºº ÃøÁ¤ ¿á¿ú : 101%	</levelup>
+			<levelup>	ERROR : ï¿½ï¿½Ã³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¿ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ : 101%	</levelup>
 			<perfor_1>	ERROR: In the middle of nowhere.	</perfor_1>
 			<perfor_2>	You're so cute.	</perfor_2>
 			<perfor_2>	I'm happy to see you : Let's go!	</perfor_2>
@@ -5604,37 +5604,37 @@
 	</pet_kiel>
 	<ILL_BAPHOMET_J>				
 		<hungry>			
-			<feeding>	I'm tired of moving forward! The hell of a heaven??...¤Ð¤Ð	</feeding>
-			<dead>	·¹²µÅÍÀÇ µ¶³ö·¦ ÇÏ¿í ²ÍÁö·· È¥º¸ÀÇ ÈûÀÌ µÎÁ¸ÇØ¡¦	</dead>
-			<stand>	What's wrong with this?...¤Ð¤Ð	</stand>
-			<stand>	I'm sorry, but I am not ridiculous. What's wrong with you?...¤Ð¤Ð	</stand>
+			<feeding>	I'm tired of moving forward! The hell of a heaven??...ï¿½Ð¤ï¿½	</feeding>
+			<dead>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¥ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¡ï¿½	</dead>
+			<stand>	What's wrong with this?...ï¿½Ð¤ï¿½	</stand>
+			<stand>	I'm sorry, but I am not ridiculous. What's wrong with you?...ï¿½Ð¤ï¿½	</stand>
 			<levelup>	The power trap for the shell! I opened it!	</levelup>
 		</hungry>			
 		<bit_hungry>			
-			<feeding>	I'm tired of moving forward! The hell of a heaven??...¤Ð¤Ð	</feeding>
-			<dead>	·¹²µÅÍÀÇ µ¶³ö·¦ ÇÏ¿í ²ÍÁö·· È¥º¸ÀÇ ÈûÀÌ µÎÁ¸ÇØ¡¦	</dead>
-			<stand>	What's wrong with this?...¤Ð¤Ð	</stand>
-			<stand>	I'm sorry, but I am not ridiculous. What's wrong with you?...¤Ð¤Ð	</stand>
+			<feeding>	I'm tired of moving forward! The hell of a heaven??...ï¿½Ð¤ï¿½	</feeding>
+			<dead>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¥ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¡ï¿½	</dead>
+			<stand>	What's wrong with this?...ï¿½Ð¤ï¿½	</stand>
+			<stand>	I'm sorry, but I am not ridiculous. What's wrong with you?...ï¿½Ð¤ï¿½	</stand>
 			<levelup>	The power trap for the shell! I opened it!	</levelup>
 		</bit_hungry>			
 		<noting>			
-			<feeding>	ÅªÅªÅª¡¦. È¥º¸ÀÇ ÈûÀÌ °Ã¹ó°À»Âº¥?	</feeding>
-			<dead>	It's just arrived and I'm so happy with my heart...¡¦¤Ð¤Ð	</dead>
+			<feeding>	ÅªÅªÅªï¿½ï¿½. È¥ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã¹ï¿½ï¿½ï¿½Âºï¿½?	</feeding>
+			<dead>	It's just arrived and I'm so happy with my heart...ï¿½ï¿½ï¿½Ð¤ï¿½	</dead>
 			<stand>	Don't worry! You're the only one who's married?	</stand>
-			<stand>	À·ÈåÈåÈåÈåÈå¡¦. ±îºÒÀÌ ¼ªÀÇ ·öÀ´ ÀÏ¾ú°î»Ù..	</stand>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å¡¦. ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ï¾ï¿½ï¿½ï¿½ï¿½..	</stand>
 			<levelup>	Haha, King it's a trap. I'm maden!	</levelup>
 		</noting>			
 		<full>			
-			<feeding>	ÅªÅªÅª¡¦. È¥º¸ÀÇ ÈûÀÌ °Ã¹ó°À»Âº¥?	</feeding>
-			<dead>	It's just arrived and I'm so happy with my heart...¡¦¤Ð¤Ð	</dead>
+			<feeding>	ÅªÅªÅªï¿½ï¿½. È¥ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã¹ï¿½ï¿½ï¿½Âºï¿½?	</feeding>
+			<dead>	It's just arrived and I'm so happy with my heart...ï¿½ï¿½ï¿½Ð¤ï¿½	</dead>
 			<stand>	Don't worry! You're the only one who's married?	</stand>
-			<stand>	À·ÈåÈåÈåÈåÈå¡¦. ±îºÒÀÌ ¼ªÀÇ ·öÀ´ ÀÏ¾ú°î»Ù..	</stand>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å¡¦. ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ï¾ï¿½ï¿½ï¿½ï¿½..	</stand>
 			<levelup>	Haha, King it's a trap. I'm maden!	</levelup>
 		</full>			
 		<so_full>			
-			<feeding>	ÀÌ¸¾ ¼°´õ¼ª»Â À²²ÄÀµ ±È ·Ô±î!	</feeding>
-			<dead>	It's just arrived and I'm so happy with my heart...¡¦¤Ð¤Ð	</dead>
-			<stand>	À·ÈåÈåÈåÈåÈå¡¦. ±îºÒÀÌ ¼ªÀÇ ·öÀ´ ÀÏ¾ú°î»Ù¡¦	</stand>
+			<feeding>	ï¿½Ì¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ô±ï¿½!	</feeding>
+			<dead>	It's just arrived and I'm so happy with my heart...ï¿½ï¿½ï¿½Ð¤ï¿½	</dead>
+			<stand>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å¡¦. ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ï¾ï¿½ï¿½ï¿½Ù¡ï¿½	</stand>
 			<stand>	Don't worry! You're the only one who's married?	</stand>
 			<levelup>	Haha, King it's a trap. I'm maden!	</levelup>
 		</so_full>			
@@ -5643,14 +5643,14 @@
 		<hungry>			
 			<feeding>	It's empty, Master!	</feeding>
 			<dead>	Master! Crispy and narrow! Give me the stir-fried one!	</dead>
-			<stand>	Good luck! ¤Ð¤Ð	</stand>
+			<stand>	Good luck! ï¿½Ð¤ï¿½	</stand>
 			<stand>	Master! Wait! Wait! Wait!	</stand>
 			<levelup>	Congratulations... Master!	</levelup>
 		</hungry>			
 		<bit_hungry>			
 			<feeding>	It's empty, Master!	</feeding>
 			<dead>	Master! Crispy and narrow! Give me the stir-fried one!	</dead>
-			<stand>	Good luck! ¤Ð¤Ð	</stand>
+			<stand>	Good luck! ï¿½Ð¤ï¿½	</stand>
 			<stand>	Master! Wait! Wait! Wait!	</stand>
 			<levelup>	Congratulations... Master!	</levelup>
 		</bit_hungry>			
@@ -5679,38 +5679,38 @@
 	<FIRE_GOLEM>				
 		<hungry>			
 			<feeding>	Good, good, good	</feeding>
-			<dead>	¡¦¡¦¡¦	</dead>
-			<stand>	Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦	</stand>
+			<dead>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
+			<stand>	Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</stand>
 			<stand>	Disaster	</stand>
-			<levelup>	It has been a long time¡¦¡¦	</levelup>
+			<levelup>	It has been a long timeï¿½ï¿½ï¿½ï¿½	</levelup>
 		</hungry>			
 		<bit_hungry>			
 			<feeding>	Good, good, good	</feeding>
-			<dead>	¡¦¡¦¡¦	</dead>
-			<stand>	Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦	</stand>
+			<dead>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
+			<stand>	Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</stand>
 			<stand>	Disaster	</stand>
-			<levelup>	It has been a long time¡¦¡¦	</levelup>
+			<levelup>	It has been a long timeï¿½ï¿½ï¿½ï¿½	</levelup>
 		</bit_hungry>			
 		<noting>			
 			<feeding>	Good, good, good	</feeding>
-			<dead>	¡¦¡¦¡¦	</dead>
-			<stand>	Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦	</stand>
+			<dead>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
+			<stand>	Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</stand>
 			<stand>	Disaster	</stand>
-			<levelup>	It has been a long time¡¦¡¦	</levelup>
+			<levelup>	It has been a long timeï¿½ï¿½ï¿½ï¿½	</levelup>
 		</noting>			
 		<full>			
 			<feeding>	Good, good, good	</feeding>
-			<dead>	¡¦¡¦¡¦	</dead>
-			<stand>	Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦	</stand>
+			<dead>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
+			<stand>	Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</stand>
 			<stand>	Disaster	</stand>
-			<levelup>	It has been a long time¡¦¡¦	</levelup>
+			<levelup>	It has been a long timeï¿½ï¿½ï¿½ï¿½	</levelup>
 		</full>			
 		<so_full>			
 			<feeding>	Good, good, good	</feeding>
-			<dead>	¡¦¡¦¡¦	</dead>
-			<stand>	Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦Good¡¦¡¦¡¦	</stand>
+			<dead>	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</dead>
+			<stand>	Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Goodï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	</stand>
 			<stand>	Disaster	</stand>
-			<levelup>	It has been a long time¡¦¡¦	</levelup>
+			<levelup>	It has been a long timeï¿½ï¿½ï¿½ï¿½	</levelup>
 		</so_full>			
 	</FIRE_GOLEM>				
 	<DARK_PRIEST>				
@@ -5738,7 +5738,7 @@
 			<stand>	I'm going to be a poison. I'm so happy for you're so happy.	</stand>
 			<stand>	At the end of the day, I've cleared up my bones and opened my eyes, and I'm glad to see you.	</stand>
 			<stand>	You're so silly. You're so cool.	</stand>
-			<stand>	¾â´ºÇÏ·ç ¿æ¶èÇÏ¹ó! »ÙÅ© ¸Îºå·¦ À§ÇØ!	</stand>
+			<stand>	ï¿½â´ºï¿½Ï·ï¿½ ï¿½ï¿½ï¿½ï¿½Ï¹ï¿½! ï¿½ï¿½Å© ï¿½Îºå·¦ ï¿½ï¿½ï¿½ï¿½!	</stand>
 			<levelup>	Haha... I'm so happy.	</levelup>
 		</noting>			
 		<full>			
@@ -5747,7 +5747,7 @@
 			<stand>	I'm going to be a poison. I'm so happy for you're so happy.	</stand>
 			<stand>	At the end of the day, I've cleared up my bones and opened my eyes, and I'm glad to see you.	</stand>
 			<stand>	You're so silly. You're so cool.	</stand>
-			<stand>	¾â´ºÇÏ·ç ¿æ¶èÇÏ¹ó! ¸Îºå·¦ À§ÇØ!	</stand>
+			<stand>	ï¿½â´ºï¿½Ï·ï¿½ ï¿½ï¿½ï¿½ï¿½Ï¹ï¿½! ï¿½Îºå·¦ ï¿½ï¿½ï¿½ï¿½!	</stand>
 			<levelup>	Haha... I'm so happy.	</levelup>
 		</full>			
 		<so_full>			
@@ -5756,7 +5756,7 @@
 			<stand>	I'm going to be a poison. I'm so happy for you're so happy.	</stand>
 			<stand>	At the end of the day, I've cleared up my bones and opened my eyes, and I'm glad to see you.	</stand>
 			<stand>	You're so silly. You're so cool.	</stand>
-			<stand>	¾â´ºÇÏ·ç ¿æ¶èÇÏ¹ó! ¸Îºå·¦ À§ÇØ!	</stand>
+			<stand>	ï¿½â´ºï¿½Ï·ï¿½ ï¿½ï¿½ï¿½ï¿½Ï¹ï¿½! ï¿½Îºå·¦ ï¿½ï¿½ï¿½ï¿½!	</stand>
 			<levelup>	Haha... I'm so happy.	</levelup>
 		</so_full>			
 	</DARK_PRIEST>				
@@ -5790,7 +5790,7 @@
 			<perfor_3>	Go to the bathroom!	</perfor_3>
 		</noting>
 		<full>
-			<feeding>	±Ã»Ù ¶ö¸Áºº ºÇ¿Ú¼ª? 	</feeding>
+			<feeding>	ï¿½Ã»ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¿Ú¼ï¿½? 	</feeding>
 			<dead>		I'm going to use it.	</dead>
 			<stand>		I'll tell you what happened.	</stand>
 			<stand>		It's a good idea to clean up.	</stand>
@@ -5801,7 +5801,7 @@
 			<perfor_3>	Go to the bathroom!	</perfor_3>
 		</full>
 		<so_full>
-			<feeding>	±Ã»Ù ¶ö¸Áºº ºÇ¿Ú¼ª? 	</feeding>
+			<feeding>	ï¿½Ã»ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¿Ú¼ï¿½? 	</feeding>
 			<dead>		I'm going to use it.	</dead>
 			<stand>		I'll tell you what happened.	</stand>
 			<stand>		It's a good idea to clean up.	</stand>
@@ -5862,7 +5862,7 @@
 	<BLUEMOON_LOLI_RURI2>
 		<hungry>
 			<feeding>	Did you dig up the wax? I think I'm moving, and I'm a trap pie. Is that right?</feeding> 
-			<hunting>	ÀÌ ¼à³®ºéÀ´ µÙÀâ±Æ, ´õ¸Î°î ±àÀÇ Àç¸á¸Î ±º ³ö ÀÖ¿Ô ÇØÁÙ¸¡?</hunting> 
+			<hunting>	ï¿½ï¿½ ï¿½à³®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Î°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½Ù¸ï¿½?</hunting> 
 			<hunting>	Whoops, bang! bang bang! V.I.C.T.O.R.Y! The master is awesome!!</hunting> 
 			<danger>	I'm going to do a lot of rubbish for the master.</danger> 
 			<danger>	I'm going to curse you!</danger> 
@@ -5877,7 +5877,7 @@
 		</hungry>
 		<bit_hungry>
 			<feeding>	Did you dig up the wax? I think I'm moving, and I'm a trap pie. Is that right?</feeding> 
-			<hunting>	ÀÌ ¼à³®ºéÀ´ µÙÀâ±Æ, ´õ¸Î°î ±àÀÇ Àç¸á¸Î ±º ³ö ÀÖ¿Ô ÇØÁÙ¸¡?</hunting> 
+			<hunting>	ï¿½ï¿½ ï¿½à³®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Î°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½Ù¸ï¿½?</hunting> 
 			<hunting>	Whoops, bang! bang bang! V.I.C.T.O.R.Y! The master is awesome!!</hunting> 
 			<danger>	I'm going to do a lot of rubbish for the master.</danger> 
 			<danger>	I'm going to curse you!</danger> 
@@ -5891,8 +5891,8 @@
 			<levelup>	Ten years ago, do you have a line of soup?</levelup> 
 		</bit_hungry>
 		<noting>
-			<feeding>	ÁÖÀÎ»Ô¿ú ÇÔ½½ÇÏ»Â ²Ä!´ç!²Ã!¿£! ¼È¼È¢±</feeding> 
-			<hunting>	ÀÌ ¼à³®ºéÀ´ µÙÀâ±Æ, ´õ¸Î°î ±àÀÇ Àç¸á¸Î ±º ³ö ÀÖ¿Ô ÇØÁÙ¸¡?</hunting> 
+			<feeding>	ï¿½ï¿½ï¿½Î»Ô¿ï¿½ ï¿½Ô½ï¿½ï¿½Ï»ï¿½ ï¿½ï¿½!ï¿½ï¿½!ï¿½ï¿½!ï¿½ï¿½! ï¿½È¼È¢ï¿½</feeding> 
+			<hunting>	ï¿½ï¿½ ï¿½à³®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Î°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½Ù¸ï¿½?</hunting> 
 			<hunting>	Whoops, bang! bang bang! V.I.C.T.O.R.Y! The master is awesome!!</hunting> 
 			<danger>	I'm going to do a lot of rubbish for the master.</danger> 
 			<danger>	I'm going to curse you!</danger> 
@@ -5906,8 +5906,8 @@
 			<levelup>	Ten years ago, do you have a line of soup?</levelup> 
 		</noting>
 		<full>
-			<feeding>	¾×¸·¿Ô ¶è¿íÇÁÁø ±ÊÀµ¿É..? ¾×¸¡ºº ¿í·¹°ö~¢Ý</feeding> 
-			<hunting>	ÀÌ ¼à³®ºéÀ´ µÙÀâ±Æ, ´õ¸Î°î ±àÀÇ Àç¸á¸Î ±º ³ö ÀÖ¿Ô ÇØÁÙ¸¡?</hunting> 
+			<feeding>	ï¿½×¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½..? ï¿½×¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½~ï¿½ï¿½</feeding> 
+			<hunting>	ï¿½ï¿½ ï¿½à³®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Î°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½Ù¸ï¿½?</hunting> 
 			<hunting>	Whoops, bang! bang bang! V.I.C.T.O.R.Y! The master is awesome!!</hunting> 
 			<danger>	I'm going to do a lot of rubbish for the master.</danger> 
 			<danger>	I'm going to curse you!</danger> 
@@ -5921,8 +5921,8 @@
 			<levelup>	Ten years ago, do you have a line of soup?</levelup> 
 		</full>
 		<so_full>
-			<feeding>	¶è¿¡ ÅÍÁú ¿Í ¿¿»Ü ·´ÀÌ±ß ¼¯ Á×ÀÏ ³ÀÀÌ±ß??</feeding> 
-			<hunting>	ÀÌ ¼à³®ºéÀ´ µÙÀâ±Æ, ´õ¸Î°î ±àÀÇ Àç¸á¸Î ±º ³ö ÀÖ¿Ô ÇØÁÙ¸¡?</hunting> 
+			<feeding>	ï¿½è¿¡ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì±ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì±ï¿½??</feeding> 
+			<hunting>	ï¿½ï¿½ ï¿½à³®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Î°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½Ù¸ï¿½?</hunting> 
 			<hunting>	Whoops, bang! bang bang! V.I.C.T.O.R.Y! The master is awesome!!</hunting> 
 			<danger>	I'm going to do a lot of rubbish for the master.</danger> 
 			<danger>	I'm going to curse you!</danger> 
@@ -5941,7 +5941,7 @@
 			<feeding>	Whoops! I'm getting stronger now! </feeding>
 			<dead>	In the mouth of the shriveled jumper!!	</dead>
 			<danger>	It's dangerous, you know?	</danger>
-			<stand>	ÁÖÀÎ»Ô¿ú ÇÔ½½¹ó·é ·Ô±îµ·Áö ·øÇÑ ¿úÀÏÀ´ ·Àµ³ ³ö ÀÖÀ´ ¿Í ¿¿±Æ.	</stand>
+			<stand>	ï¿½ï¿½ï¿½Î»Ô¿ï¿½ ï¿½Ô½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±îµ·ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.	</stand>
 			<stand>	It's fried. I'm here. Don't worry.	</stand>
 			<stand>	Do you have a goosebumps? </stand>
 			<levelup>	congratulations!! Master!! Congrats, do you have money?	</levelup>
@@ -5950,7 +5950,7 @@
 			<feeding>	Whoops! I'm getting stronger now! </feeding>
 			<dead>	In the mouth of the shriveled jumper!!	</dead>
 			<danger>	It's dangerous, you know?	</danger>
-			<stand>	ÁÖÀÎ»Ô¿ú ÇÔ½½¹ó·é ·Ô±îµ·Áö ·øÇÑ ¿úÀÏÀ´ ·Àµ³ ³ö ÀÖÀ´ ¿Í ¿¿±Æ.	</stand>
+			<stand>	ï¿½ï¿½ï¿½Î»Ô¿ï¿½ ï¿½Ô½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±îµ·ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.	</stand>
 			<stand>	It's fried. I'm here. Don't worry.	</stand>
 			<stand>	Do you have a goosebumps? </stand>
 			<levelup>	congratulations!! Master!! Congrats, do you have money?	</levelup>
@@ -5959,7 +5959,7 @@
 			<feeding>	What kind of worm is that? </feeding>
 			<dead>	In the mouth of the shriveled jumper!!	</dead>
 			<danger>	It's dangerous, you know?	</danger>
-			<stand>	ÁÖÀÎ»Ô¿ú ÇÔ½½¹ó·é ·Ô±îµ·Áö ·øÇÑ ¿úÀÏÀ´ ·Àµ³ ³ö ÀÖÀ´ ¿Í ¿¿±Æ.	</stand>
+			<stand>	ï¿½ï¿½ï¿½Î»Ô¿ï¿½ ï¿½Ô½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±îµ·ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.	</stand>
 			<stand>	It's fried. I'm here. Don't worry.	</stand>
 			<stand>	Do you have a goosebumps? </stand>
 			<levelup>	congratulations!! Master!! Congrats, do you have money?	</levelup>
@@ -5968,16 +5968,16 @@
 			<feeding>	I'm going to beat him up. </feeding>
 			<dead>	In the mouth of the shriveled jumper!!	</dead>
 			<danger>	It's dangerous, you know?	</danger>
-			<stand>	ÁÖÀÎ»Ô¿ú ÇÔ½½¹ó·é ·Ô±îµ·Áö ·øÇÑ ¿úÀÏÀ´ ·Àµ³ ³ö ÀÖÀ´ ¿Í ¿¿±Æ.	</stand>
+			<stand>	ï¿½ï¿½ï¿½Î»Ô¿ï¿½ ï¿½Ô½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±îµ·ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.	</stand>
 			<stand>	It's fried. I'm here. Don't worry.	</stand>
 			<stand>	Do you have a goosebumps? </stand>
 			<levelup>	congratulations!! Master!! Congrats, do you have money?	</levelup>
 		</full>			
 		<so_full>			
-			<feeding>	¾×·· Áà ! ÀÚ½Ù ¾«¸ÓÈ÷·é ÁÖÀÎ»Ô ÇÇ·¦ ´¡±Æ·ÔÀ´Áöºº ·ô¹ó. </feeding>
+			<feeding>	ï¿½×·ï¿½ ï¿½ï¿½ ! ï¿½Ú½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Î»ï¿½ ï¿½Ç·ï¿½ ï¿½ï¿½ï¿½Æ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. </feeding>
 			<dead>	In the mouth of the shriveled jumper!!	</dead>
 			<danger>	It's dangerous, you know?	</danger>
-			<stand>	ÁÖÀÎ»Ô¿ú ÇÔ½½¹ó·é ·Ô±îµ·Áö ·øÇÑ ¿úÀÏÀ´ ·Àµ³ ³ö ÀÖÀ´ ¿Í ¿¿±Æ.	</stand>
+			<stand>	ï¿½ï¿½ï¿½Î»Ô¿ï¿½ ï¿½Ô½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô±îµ·ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.	</stand>
 			<stand>	It's fried. I'm here. Don't worry.	</stand>
 			<stand>	Do you have a goosebumps? </stand>
 			<levelup>	congratulations!! Master!! Congrats, do you have money?	</levelup>
@@ -5986,7 +5986,7 @@
 	<WILD_ROSE3>
 		<hungry>
 			<feeding> Hey! Did you hit the blank? </feeding>
-			<feeding> Àß~~~·Ô¿Ú²À»Ï»Ù! À·~À²~¢Ü ÃÖ¿í¸Î Çàµ¶ÇÑ ²Ã¿£ÀÌ»Ù¼Ä! </feeding>
+			<feeding> ï¿½ï¿½~~~ï¿½Ô¿Ú²ï¿½ï¿½Ï»ï¿½! ï¿½ï¿½~ï¿½ï¿½~ï¿½ï¿½ ï¿½Ö¿ï¿½ï¿½ï¿½ ï¿½àµ¶ï¿½ï¿½ ï¿½Ã¿ï¿½ï¿½Ì»Ù¼ï¿½! </feeding>
 			<connect> Should I take it out? It's sharpening control. </connect>
 			<connect> So long story short... </connect>
 			<danger> Sleep, sleep, sleep! What a dangerous move!? </danger>
@@ -6005,7 +6005,7 @@
 		</hungry>
 		<bit_hungry>
 			<feeding> Hey! Did you hit the blank? </feeding>
-			<feeding> Àß~~~·Ô¿Ú²À»Ï»Ù! À·~À²~¢Ü ÃÖ¿í¸Î Çàµ¶ÇÑ ²Ã¿£ÀÌ»Ù¼Ä! </feeding>
+			<feeding> ï¿½ï¿½~~~ï¿½Ô¿Ú²ï¿½ï¿½Ï»ï¿½! ï¿½ï¿½~ï¿½ï¿½~ï¿½ï¿½ ï¿½Ö¿ï¿½ï¿½ï¿½ ï¿½àµ¶ï¿½ï¿½ ï¿½Ã¿ï¿½ï¿½Ì»Ù¼ï¿½! </feeding>
 			<connect> Should I take it out? It's sharpening control. </connect>
 			<connect> So long story short... </connect>
 			<danger> Sleep, sleep, sleep! What a dangerous move!? </danger>
